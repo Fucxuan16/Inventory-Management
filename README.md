@@ -32,17 +32,16 @@ Tính năng
 
 Vai trò và phân quyền
 
--Chức năng	Admin	Thủ kho	Nhân viên xem
+-Chức năng	
 
--Quản lý người dùng	✅	❌	❌
 
--Quản lý sản phẩm	✅	✅	❌
+-Quản lý sản phẩm	
 
--Nhập / xuất / điều chỉnh kho	✅	✅	❌
+-Nhập / xuất / điều chỉnh kho
 
--Xem tồn kho và lịch sử	✅	✅	✅
+-Xem tồn kho và lịch sử	
 
--Xem và xuất báo cáo	✅	✅	✅
+-Xem và xuất báo cáo	
 
 
 Công nghệ sử dụng
