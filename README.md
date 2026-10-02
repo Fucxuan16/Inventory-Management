@@ -60,6 +60,9 @@ Công nghệ sử dụng
 -Triển khai	(ví dụ: Docker Compose)
 
 Yêu cầu
+
 (Node.js ≥ 20 / JDK 17 ...)
+
 (PostgreSQL ≥ 15 hoặc Docker)
+
 Git
